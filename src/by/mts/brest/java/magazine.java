@@ -94,6 +94,7 @@ import java.util.Scanner;
                 System.out.println("");
             }
             System.out.println("------------------------------------");
+            System.out.println("------------------------------------");
         }
         //            this.name = name;
         //            this.color = color;
@@ -101,6 +102,8 @@ import java.util.Scanner;
         //            this.ram = ram;
         //            this.screen = screen;
         //            this.price = price;
+
+        //  коммит
     }
 
 
